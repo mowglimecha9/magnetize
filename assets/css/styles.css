@@ -2562,3 +2562,14 @@ select {
 .long-delay {
   -webkit-animation-delay: 700ms !important;
           animation-delay: 700ms !important; }
+
+/* CANVAS STYLES */
+  #magnetizeCanvas{
+    margin: 10px auto;
+    display: block;
+    border: 1px solid #A7A7A7;
+  }
+
+  #player{
+    border: 1px solid red;
+  }
