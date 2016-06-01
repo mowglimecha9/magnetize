@@ -1,0 +1,27 @@
+{
+  "name": "magnetize",
+  "version": "1.0.0",
+  "description": "Magnetize",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mowglimecha9/magnetize.git"
+  },
+  "author": "Mowgli Mecha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mowglimecha9/magnetize/issues"
+  },
+  "homepage": "https://github.com/mowglimecha9/magnetize#readme",
+  "dependencies": {
+    "paper": "^0.9.25",
+    "webpack": "^1.13.1"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "^1.14.1"
+  }
+}
